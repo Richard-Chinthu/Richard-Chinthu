@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Richard-Chinthu
-- 👀 I’m interested in eletronics with arduino and another microcontroler and new windows feature
-- 🌱 I’m currently learning ... 9th grade 
-- 💞️ I’m looking to collaborate on ...  youtube
+- 👀 I’m interested in eletronics
+- 🌱 I’m currently doing majors in electronics and communication
 - 📫 How to reach me ...email
 
 <!---
